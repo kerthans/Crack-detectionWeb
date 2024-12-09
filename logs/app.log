@@ -1,0 +1,12 @@
+[32m2024-12-09 17:29:09,505[0m - [34mINFO[0m - [33mRunning job "Process images in todo directory (trigger: interval[0:00:06], next run at: 2024-12-09 17:29:15 CST)" (scheduled at 2024-12-09 17:29:09.498659+08:00)[0m
+[32m2024-12-09 17:29:09,505[0m - [34mINFO[0m - [33mJob "Process images in todo directory (trigger: interval[0:00:06], next run at: 2024-12-09 17:29:15 CST)" executed successfully[0m
+[32m2024-12-09 17:29:11,133[0m - [34mINFO[0m - [33mRunning job "Process images in todo directory (trigger: interval[0:00:06], next run at: 2024-12-09 17:29:17 CST)" (scheduled at 2024-12-09 17:29:11.127712+08:00)[0m
+[32m2024-12-09 17:29:11,133[0m - [34mINFO[0m - [33mJob "Process images in todo directory (trigger: interval[0:00:06], next run at: 2024-12-09 17:29:17 CST)" executed successfully[0m
+[32m2024-12-09 17:29:15,504[0m - [34mINFO[0m - [33mRunning job "Process images in todo directory (trigger: interval[0:00:06], next run at: 2024-12-09 17:29:21 CST)" (scheduled at 2024-12-09 17:29:15.498659+08:00)[0m
+[32m2024-12-09 17:29:15,505[0m - [34mINFO[0m - [33mJob "Process images in todo directory (trigger: interval[0:00:06], next run at: 2024-12-09 17:29:21 CST)" executed successfully[0m
+[32m2024-12-09 17:29:17,132[0m - [34mINFO[0m - [33mRunning job "Process images in todo directory (trigger: interval[0:00:06], next run at: 2024-12-09 17:29:23 CST)" (scheduled at 2024-12-09 17:29:17.127712+08:00)[0m
+[32m2024-12-09 17:29:17,133[0m - [34mINFO[0m - [33mJob "Process images in todo directory (trigger: interval[0:00:06], next run at: 2024-12-09 17:29:23 CST)" executed successfully[0m
+[32m2024-12-09 17:29:21,504[0m - [34mINFO[0m - [33mRunning job "Process images in todo directory (trigger: interval[0:00:06], next run at: 2024-12-09 17:29:27 CST)" (scheduled at 2024-12-09 17:29:21.498659+08:00)[0m
+[32m2024-12-09 17:29:21,505[0m - [34mINFO[0m - [33mJob "Process images in todo directory (trigger: interval[0:00:06], next run at: 2024-12-09 17:29:27 CST)" executed successfully[0m
+[32m2024-12-09 17:29:23,133[0m - [34mINFO[0m - [33mRunning job "Process images in todo directory (trigger: interval[0:00:06], next run at: 2024-12-09 17:29:29 CST)" (scheduled at 2024-12-09 17:29:23.127712+08:00)[0m
+[32m2024-12-09 17:29:23,134[0m - [34mINFO[0m - [33mJob "Process images in todo directory (trigger: interval[0:00:06], next run at: 2024-12-09 17:29:29 CST)" executed successfully[0m

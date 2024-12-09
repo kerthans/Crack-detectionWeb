@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": "20241209_171240",
+    "original_path": "app/history/original/original_20241209_171240.png",
+    "processed_path": "app/history/processed/segmented_20241209_171240.png",
+    "download_original": "/api/download/app/history/original/original_20241209_171240.png",
+    "download_processed": "/api/download/app/history/processed/segmented_20241209_171240.png",
+    "measurements": {
+      "length": "4.09",
+      "width": "0.04",
+      "area": "0.18"
+    },
+    "time": "2024-12-09 17:12:40"
+  },
+  {
+    "timestamp": "20241209_171248",
+    "original_path": "app/history/original/original_20241209_171248.png",
+    "processed_path": "app/history/processed/segmented_20241209_171248.png",
+    "download_original": "/api/download/app/history/original/original_20241209_171248.png",
+    "download_processed": "/api/download/app/history/processed/segmented_20241209_171248.png",
+    "measurements": {
+      "length": "3.69",
+      "width": "0.04",
+      "area": "0.16"
+    },
+    "time": "2024-12-09 17:12:48"
+  },
+  {
+    "timestamp": "20241209_172319",
+    "original_path": "app/history/original/original_20241209_172319.png",
+    "processed_path": "app/history/processed/segmented_20241209_172319.png",
+    "overlay_path": "app/history/processed/overlay_20241209_172319.png",
+    "download_original": "/api/download/app/history/original/original_20241209_172319.png",
+    "download_processed": "/api/download/app/history/processed/segmented_20241209_172319.png",
+    "download_overlay": "/api/download/app/history/processed/overlay_20241209_172319.png",
+    "measurements": {
+      "length": "4.09",
+      "width": "0.04",
+      "area": "0.18"
+    },
+    "time": "2024-12-09 17:23:19"
+  },
+  {
+    "timestamp": "20241209_172503",
+    "original_path": "app/history/original/original_20241209_172503.png",
+    "processed_path": "app/history/processed/segmented_20241209_172503.png",
+    "download_original": "/api/download/app/history/original/original_20241209_172503.png",
+    "download_processed": "/api/download/app/history/processed/segmented_20241209_172503.png",
+    "measurements": {
+      "length": "4.09",
+      "width": "0.04",
+      "area": "0.18"
+    },
+    "time": "2024-12-09 17:25:03"
+  }
+]
